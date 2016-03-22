@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi to other humans... 
+
+My name is Robert and this is my first time here...
